@@ -1,5 +1,5 @@
 # DevSense - AI-Powered Code Assistant
- 
+
 DevSense is an intelligent developer productivity tool that understands your entire codebase and provides context-aware assistance using advanced AI models.
 
 ## Features
@@ -359,6 +359,4 @@ For issues or questions, please open an issue on GitHub.
 ---
 
 Built with ❤️ for developers
-#   a w s 
- 
- 
+#
