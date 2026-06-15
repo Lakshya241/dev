@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+gitpython
+faiss-cpu
+python-dotenv
+pydantic
+python-multipart
+google-generativeai
+anthropic
+openai

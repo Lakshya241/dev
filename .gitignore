@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.pytest_cache/
+
+# Environment variables
+.env
+*.env
+
+# Data directories
+devsense-backend/data/repos/*
+devsense-backend/data/indexes/*
+devsense-backend/data/metadata/*
+devsense-backend/data/logs/*
+devsense-backend/data/feedback/*
+
+# Keep directory structure
+!devsense-backend/data/repos/.gitkeep
+!devsense-backend/data/indexes/.gitkeep
+!devsense-backend/data/metadata/.gitkeep
+!devsense-backend/data/logs/.gitkeep
+!devsense-backend/data/feedback/.gitkeep
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.kiro/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db
+.DS_Store
